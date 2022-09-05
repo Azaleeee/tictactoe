@@ -1,0 +1,7 @@
+Import random
+
+
+Print=("welcome to tic tac toe")
+Print=("______________________")
+
+PossibleNumbers=[1,2,3,4,5,6,7,8,9
